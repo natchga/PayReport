@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PR.PayReport.UI", "PR.PayReport.UI\PR.PayReport.UI.vcxproj", "{9D57E92E-90D1-4F18-89AE-50F0A71D800F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Debug|x64.ActiveCfg = Debug|x64
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Debug|x64.Build.0 = Debug|x64
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Debug|x86.Build.0 = Debug|Win32
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Release|x64.ActiveCfg = Release|x64
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Release|x64.Build.0 = Release|x64
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Release|x86.ActiveCfg = Release|Win32
+		{9D57E92E-90D1-4F18-89AE-50F0A71D800F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BABD5B1-A770-412C-9675-A9FC3624EC33}
+	EndGlobalSection
+EndGlobal
